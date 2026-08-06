@@ -9,5 +9,5 @@ Un outil simple de vérification d'hôtes et de scan de ports TCP développé en
 ## Utilisation 💻
 1. Clone le projet :
    ```bash
-   git clone [https://github.com/Newzpc/port-scanner-project.git](https://github.com/Newzpc/port-scanner-project.git)
+   git clone https://github.com/Newzpc/port-scanner-project.git
    
